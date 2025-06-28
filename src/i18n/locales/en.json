@@ -1,0 +1,117 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "gallery": "Gallery",
+    "about": "About",
+    "contact": "Contact",
+    "callNow": "📞 Call Now"
+  },
+  "home": {
+    "tagline": "Authentic Italian Cuisine in the Heart of the City",
+    "callToOrder": "Call Now to Order",
+    "viewMenu": "View Menu",
+    "featuredDishes": "Featured Dishes",
+    "tasteSpecialties": "Taste our chef's specialties",
+    "viewFullMenu": "View Full Menu",
+    "visitToday": "Visit Us Today",
+    "openingHours": "Opening Hours",
+    "location": "Location",
+    "contact": "Contact"
+  },
+  "menu": {
+    "title": "Our Menu",
+    "subtitle": "Discover our delicious offerings",
+    "all": "All",
+    "readyToOrder": "Ready to Order?",
+    "callToPlace": "Call us now to place your order for pickup or delivery",
+    "callNowToOrder": "📞 Call Now to Order"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "A visual journey through our restaurant and cuisine",
+    "experienceYourself": "Experience It Yourself",
+    "callToTaste": "Call now to order and taste the difference",
+    "callNowToOrder": "📞 Call Now to Order"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Our story, our passion, our commitment",
+    "ourStory": "Our Story",
+    "qualityIngredients": "Quality Ingredients",
+    "qualityDesc": "We source only the finest ingredients, many imported directly from Italy",
+    "familyTradition": "Family Tradition",
+    "familyDesc": "Three generations of culinary expertise passed down through our family",
+    "madeWithLove": "Made with Love",
+    "loveDesc": "Every dish is prepared with passion and attention to detail",
+    "timeHonored": "Time-Honored Recipes",
+    "timeDesc": "Traditional recipes refined over decades of cooking experience",
+    "meetTeam": "Meet Our Team",
+    "headChef": "Head Chef",
+    "sousChef": "Sous Chef",
+    "manager": "Restaurant Manager",
+    "readyToTaste": "Ready to Taste Tradition?",
+    "unforgettable": "Join us for an unforgettable dining experience",
+    "callNowToOrder": "📞 Call Now to Order"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us for orders and inquiries",
+    "getInTouch": "Get in Touch",
+    "phone": "Phone",
+    "clickToCall": "Click to call for orders",
+    "whatsapp": "WhatsApp",
+    "messageWhatsApp": "Message us on WhatsApp",
+    "address": "Address",
+    "downtown": "Located in the heart of downtown",
+    "openingHours": "Opening Hours",
+    "callNowToOrder": "Call Now to Order",
+    "messageOnWhatsApp": "Message on WhatsApp",
+    "findUs": "Find Us",
+    "directions": "Directions",
+    "getDirections": "Get Directions →",
+    "specialEvent": "Planning a Special Event?",
+    "catering": "We offer catering services and private dining options for special occasions. Contact us to discuss your event needs and make your celebration memorable.",
+    "callToDiscuss": "Call Now to Discuss Your Event"
+  },
+  "footer": {
+    "quickLinks": "Quick Links"
+  },
+  "pwa": {
+    "addToHomeScreen": "Would you like to add this site to your home screen?",
+    "addNow": "Add Now",
+    "later": "Later"
+  },
+  "categories": {
+    "Pizza": "Pizza",
+    "Pasta": "Pasta",
+    "Main Course": "Main Course",
+    "Dessert": "Dessert",
+    "Salads": "Salads",
+    "Burgers": "Burgers"
+  },
+  "menuItems": {
+    "margheritaPizza": "Margherita Pizza",
+    "margheritaDesc": "Fresh tomatoes, mozzarella, basil, and olive oil on our signature crust",
+    "spaghettiCarbonara": "Spaghetti Carbonara",
+    "carbonaraDesc": "Classic Roman pasta with eggs, pecorino cheese, pancetta, and black pepper",
+    "ossoBuco": "Osso Buco",
+    "ossoBucoDesc": "Braised veal shanks with vegetables, white wine, and broth",
+    "tiramisu": "Tiramisu",
+    "tiramisuDesc": "Classic Italian dessert with espresso-soaked ladyfingers and mascarpone",
+    "caesarSalad": "Caesar Salad",
+    "caesarDesc": "Crisp romaine lettuce, parmesan, croutons, and our house Caesar dressing",
+    "beefBurger": "Classic Beef Burger",
+    "burgerDesc": "Juicy beef patty with lettuce, tomato, onion, and our special sauce on a brioche bun"
+  },
+  "restaurantInfo": {
+    "name": "Bella Vista",
+    "tagline": "Authentic Italian Cuisine in the Heart of the City",
+    "about": "Welcome to Bella Vista, where tradition meets innovation. Our family has been serving authentic Italian cuisine for over three generations. Using only the finest imported ingredients and time-honored recipes, we create dishes that transport you straight to the heart of Italy. Every meal is prepared with love and attention to detail, ensuring an unforgettable dining experience.",
+    "openingHours": {
+      "mondayThursday": "Monday - Thursday",
+      "fridaySaturday": "Friday - Saturday",
+      "sunday": "Sunday"
+    }
+  }
+}

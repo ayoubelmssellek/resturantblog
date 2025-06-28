@@ -1,0 +1,117 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "menu": "Menu",
+    "gallery": "Galerie",
+    "about": "À propos",
+    "contact": "Contact",
+    "callNow": "📞 Appelez maintenant"
+  },
+  "home": {
+    "tagline": "Cuisine italienne authentique au cœur de la ville",
+    "callToOrder": "Appelez maintenant pour commander",
+    "viewMenu": "Voir le menu",
+    "featuredDishes": "Plats vedettes",
+    "tasteSpecialties": "Goûtez aux spécialités du chef",
+    "viewFullMenu": "Voir le menu complet",
+    "visitToday": "Visitez-nous aujourd'hui",
+    "openingHours": "Heures d'ouverture",
+    "location": "Emplacement",
+    "contact": "Contact"
+  },
+  "menu": {
+    "title": "Notre Menu",
+    "subtitle": "Découvrez nos délicieuses offres",
+    "all": "Tout",
+    "readyToOrder": "Prêt à commander ?",
+    "callToPlace": "Appelez-nous maintenant pour passer votre commande à emporter ou en livraison",
+    "callNowToOrder": "📞 Appelez maintenant pour commander"
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Un voyage visuel à travers notre restaurant et notre cuisine",
+    "experienceYourself": "Vivez l'expérience vous-même",
+    "callToTaste": "Appelez maintenant pour commander et goûter la différence",
+    "callNowToOrder": "📞 Appelez maintenant pour commander"
+  },
+  "about": {
+    "title": "À propos de nous",
+    "subtitle": "Notre histoire, notre passion, notre engagement",
+    "ourStory": "Notre histoire",
+    "qualityIngredients": "Ingrédients de qualité",
+    "qualityDesc": "Nous ne nous approvisionnons qu'avec les meilleurs ingrédients, beaucoup importés directement d'Italie",
+    "familyTradition": "Tradition familiale",
+    "familyDesc": "Trois générations d'expertise culinaire transmises à travers notre famille",
+    "madeWithLove": "Fait avec amour",
+    "loveDesc": "Chaque plat est préparé avec passion et attention aux détails",
+    "timeHonored": "Recettes traditionnelles",
+    "timeDesc": "Recettes traditionnelles raffinées au fil de décennies d'expérience culinaire",
+    "meetTeam": "Rencontrez notre équipe",
+    "headChef": "Chef principal",
+    "sousChef": "Sous-chef",
+    "manager": "Directeur du restaurant",
+    "readyToTaste": "Prêt à goûter la tradition ?",
+    "unforgettable": "Rejoignez-nous pour une expérience culinaire inoubliable",
+    "callNowToOrder": "📞 Appelez maintenant pour commander"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Contactez-nous pour les commandes et les demandes",
+    "getInTouch": "Entrez en contact",
+    "phone": "Téléphone",
+    "clickToCall": "Cliquez pour appeler pour les commandes",
+    "whatsapp": "WhatsApp",
+    "messageWhatsApp": "Envoyez-nous un message sur WhatsApp",
+    "address": "Adresse",
+    "downtown": "Situé au cœur du centre-ville",
+    "openingHours": "Heures d'ouverture",
+    "callNowToOrder": "Appelez maintenant pour commander",
+    "messageOnWhatsApp": "Message sur WhatsApp",
+    "findUs": "Trouvez-nous",
+    "directions": "Directions",
+    "getDirections": "Obtenir les directions →",
+    "specialEvent": "Planifiez un événement spécial ?",
+    "catering": "Nous offrons des services de traiteur et des options de restauration privée pour les occasions spéciales. Contactez-nous pour discuter de vos besoins d'événement et rendre votre célébration mémorable.",
+    "callToDiscuss": "Appelez maintenant pour discuter de votre événement"
+  },
+  "footer": {
+    "quickLinks": "Liens rapides"
+  },
+  "pwa": {
+    "addToHomeScreen": "Voulez-vous ajouter ce site à votre écran d'accueil ?",
+    "addNow": "Ajouter maintenant",
+    "later": "Plus tard"
+  },
+  "categories": {
+    "Pizza": "Pizza",
+    "Pasta": "Pâtes",
+    "Main Course": "Plat principal",
+    "Dessert": "Dessert",
+    "Salads": "Salades",
+    "Burgers": "Burgers"
+  },
+  "menuItems": {
+    "margheritaPizza": "Pizza Margherita",
+    "margheritaDesc": "Tomates fraîches, mozzarella, basilic et huile d'olive sur notre pâte signature",
+    "spaghettiCarbonara": "Spaghetti Carbonara",
+    "carbonaraDesc": "Pâtes romaines classiques avec œufs, fromage pecorino, pancetta et poivre noir",
+    "ossoBuco": "Osso Buco",
+    "ossoBucoDesc": "Jarrets de veau braisés avec légumes, vin blanc et bouillon",
+    "tiramisu": "Tiramisu",
+    "tiramisuDesc": "Dessert italien classique avec biscuits à la cuillère imbibés d'espresso et mascarpone",
+    "caesarSalad": "Salade César",
+    "caesarDesc": "Laitue romaine croquante, parmesan, croûtons et notre vinaigrette César maison",
+    "beefBurger": "Burger de bœuf classique",
+    "burgerDesc": "Galette de bœuf juteuse avec laitue, tomate, oignon et notre sauce spéciale sur pain brioche"
+  },
+  "restaurantInfo": {
+    "name": "Bella Vista",
+    "tagline": "Cuisine italienne authentique au cœur de la ville",
+    "about": "Bienvenue chez Bella Vista, où la tradition rencontre l'innovation. Notre famille sert une cuisine italienne authentique depuis plus de trois générations. En utilisant uniquement les meilleurs ingrédients importés et des recettes traditionnelles, nous créons des plats qui vous transportent directement au cœur de l'Italie. Chaque repas est préparé avec amour et attention aux détails, garantissant une expérience culinaire inoubliable.",
+    "openingHours": {
+      "mondayThursday": "Lundi - Jeudi",
+      "fridaySaturday": "Vendredi - Samedi",
+      "sunday": "Dimanche"
+    }
+  }
+}
